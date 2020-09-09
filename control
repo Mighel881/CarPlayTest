@@ -1,0 +1,9 @@
+Package: com.bid3v.carplaytest
+Name: CarPlayTest
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: bid3v
+Author: bid3v
+Section: Tweaks
